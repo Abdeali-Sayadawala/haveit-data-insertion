@@ -1,0 +1,375 @@
+[
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Chicken BBQ Pizza",
+        "image": "image.jpg",
+        "price": 200,
+        "description": "Layered with a blend of BBQ sauce, veggies, cheese and lots of spices.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Paneer BBQ Pizza",
+        "image": "image.jpg",
+        "price": 215,
+        "description": "Layered with a blend of BBQ sauce, veggies, cheese and lots of spices.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Chicken Corn & Cheese Pizza",
+        "image": "image.jpg",
+        "price": 220,
+        "description": "A mix of Corn and Cheese can never go wrong!",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Paneer Corn & Cheese Pizza",
+        "image": "image.jpg",
+        "price": 230,
+        "description": "A mix of Corn and Cheese can never go wrong!",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Chicken Spicy Italiano Pizza",
+        "image": "image.jpg",
+        "price": 200,
+        "description": "Mix of Tomato Alfredo and a spicy mix of sauces. Topped with Loads of Cheese",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Paneer Spicy Italiano Pizza",
+        "image": "image.jpg",
+        "price": 215,
+        "description": "Mix of Tomato Alfredo and a spicy mix of sauces. Topped with Loads of Cheese",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Chicken Creamy Malai Pizza",
+        "image": "image.jpg",
+        "price": 220,
+        "description": "Classic crust, topped with Tomato sauce, exclusive pepperoni, favourite around the world.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Paneer Creamy Malai Pizza",
+        "image": "image.jpg",
+        "price": 240,
+        "description": "Classic crust, topped with Tomato sauce, exclusive pepperoni, favourite around the world.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Chicken Fiesta Supreme Pizza",
+        "image": "image.jpg",
+        "price": 210,
+        "description": "Loaded with variety of toppings, a little something for everyone's taste.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Paneer Fiesta Supreme Pizza",
+        "image": "image.jpg",
+        "price": 225,
+        "description": "Loaded with variety of toppings, a little something for everyone's taste.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Chicken Cheese Casket Pizza",
+        "image": "image.jpg",
+        "price": 230,
+        "description": "Rich, Gooey, filled with 3 layers of cheese, specially made for cheese Lovers.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Paneer Cheese Casket Pizza",
+        "image": "image.jpg",
+        "price": 240,
+        "description": "Rich, Gooey, filled with 3 layers of cheese, specially made for cheese Lovers.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Chicken Kullad Pizza",
+        "image": "image.jpg",
+        "price": 120,
+        "description": "Clay Pot Magic. Kullad Pizza, a fusion flavour sensation.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Slice of Heaven",
+        "item_name": "Paneer Kullad Pizza",
+        "image": "image.jpg",
+        "price": 90,
+        "description": "Clay Pot Magic. Kullad Pizza, a fusion flavour sensation.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Chicken Regular roll",
+        "image": "image.jpg",
+        "price": 120,
+        "description": "Popular indian street food filled with Spices.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Paneer Regular roll",
+        "image": "image.jpg",
+        "price": 135,
+        "description": "Popular indian street food filled with Spices.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Chicken Malai Tikka roll",
+        "image": "image.jpg",
+        "price": 130,
+        "description": "Typically made with Cream/Malai, serves mouth melting delicacy.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Paneer Malai Tikka roll",
+        "image": "image.jpg",
+        "price": 140,
+        "description": "Typically made with Cream/Malai, serves mouth melting delicacy.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Chicken Hot & Spicy roll",
+        "image": "image.jpg",
+        "price": 120,
+        "description": "Mixed with Hot & Spicy sauces, gives you a spicy kick.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Paneer Hot & Spicy roll",
+        "image": "image.jpg",
+        "price": 135,
+        "description": "Mixed with Hot & Spicy sauces, gives you a spicy kick.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Chicken BBQ roll",
+        "image": "image.jpg",
+        "price": 120,
+        "description": "Smoky & Tangy flavour, mixed with veggies. A Savoury you cannot miss.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Paneer BBQ roll",
+        "image": "image.jpg",
+        "price": 135,
+        "description": "Smoky & Tangy flavour, mixed with veggies. A Savoury you cannot miss.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Chicken schezwan roll",
+        "image": "image.jpg",
+        "price": 120,
+        "description": "A mix of spicy schezwan with a rush of mouth watering noodles.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Paneer schezwan roll",
+        "image": "image.jpg",
+        "price": 135,
+        "description": "A mix of spicy schezwan with a rush of mouth watering noodles.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Have It Spl! Chicken roll",
+        "image": "image.jpg",
+        "price": 160,
+        "description": "The Owners Favourite!",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Have It Spl! Paneer roll",
+        "image": "image.jpg",
+        "price": 160,
+        "description": "The Owners Favourite!",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Rollups",
+        "item_name": "Crispy Chicken Roll",
+        "image": "image.jpg",
+        "price": 120,
+        "description": "Chicken breast combines with various vegetables and spices.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Veg. Sandwich",
+        "image": "image.jpg",
+        "price": 40,
+        "description": "Taste the goodness of our veggie-filled sandwich",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Veg. Grill Sandwich",
+        "image": "image.jpg",
+        "price": 60,
+        "description": "Taste the goodness of our veggie-filled sandwich",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Veg. Cheese Sandwich",
+        "image": "image.jpg",
+        "price": 60,
+        "description": "It's celebration of the perfect union between fresh veggies and the creamy richness of cheese.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Veg. Cheese Grill Sandwich",
+        "image": "image.jpg",
+        "price": 75,
+        "description": "It's celebration of the perfect union between fresh veggies and the creamy richness of cheese.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Veg. Cheese & Mayo Sandwich",
+        "image": "image.jpg",
+        "price": 80,
+        "description": "Indulge in a symphony of creamy sophistication with our cheese & mayo.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Veg. Cheese & Mayo Grill Sandwich",
+        "image": "image.jpg",
+        "price": 95,
+        "description": "Indulge in a symphony of creamy sophistication with our cheese & mayo.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Veg. Plain cheese Sandwich",
+        "image": "image.jpg",
+        "price": 85,
+        "description": "Simple, yest staisfying.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Veg. chilli cheese grill Sandwich",
+        "image": "image.jpg",
+        "price": 85,
+        "description": "The kick of chilli meets the richness of melted cheese.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Regular Mayo Chicken Sandwich",
+        "image": "image.jpg",
+        "price": 70,
+        "description": "Satisfy cravings with the classic charm of our chicken mayo sandwich.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Regular Mayo Grilled Chicken Sandwich",
+        "image": "image.jpg",
+        "price": 90,
+        "description": "Satisfy cravings with the classic charm of our chicken mayo sandwich.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Overload Chocolate Sandwich",
+        "image": "image.jpg",
+        "price": 50,
+        "description": "Overloaded chocolate on a sandwich.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Overload Chocolate Grilled Sandwich",
+        "image": "image.jpg",
+        "price": 70,
+        "description": "Overloaded chocolate on a sandwich.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Melting Sandwich (Small)",
+        "image": "image.jpg",
+        "price": 150,
+        "description": "Layers of Gooey cheese, savory meats and flavourful condiments converge between perfectly tasted bread.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Melting Sandwich (Large)",
+        "image": "image.jpg",
+        "price": 200,
+        "description": "Layers of Gooey cheese, savory meats and flavourful condiments converge between perfectly tasted bread.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Aloo Slice Sandwich",
+        "image": "image.jpg",
+        "price": 50,
+        "description": "Crispy, spiced perfection Aloo Slice, a flavourfull delight.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "The Sub Commander",
+        "item_name": "Aloo Slice Grill Sandwich",
+        "image": "image.jpg",
+        "price": 65,
+        "description": "Crispy, spiced perfection Aloo Slice, a flavourfull delight.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Pasta Paradise",
+        "item_name": "Creamy Pasta.",
+        "image": "image.jpg",
+        "price": 65,
+        "description": "Crispy, spiced perfection Aloo Slice, a flavourfull delight.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Momos"
+    },
+    {
+        "category_name": "Burger"
+    },
+    {
+        "category_name": "Clubhouse Cruncher"
+    },
+    {
+        "category_name": "Noodles Nirvana"
+    },
+    {
+        "category_name": "Shakes"
+    },
+    {
+        "category_name": "Add Ons"
+    },
+    {
+        "category_name": "Sides"
+    }
+]
