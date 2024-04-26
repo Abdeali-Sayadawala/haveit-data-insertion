@@ -347,29 +347,352 @@
         "category_name": "Pasta Paradise",
         "item_name": "Creamy Pasta.",
         "image": "image.jpg",
-        "price": 65,
-        "description": "Crispy, spiced perfection Aloo Slice, a flavourfull delight.",
+        "price": 120,
+        "description": "Rich and Creamy texture, toasted vegetables, buttery, loaded with cheese.",
         "item_type": "veg"
     },
     {
-        "category_name": "Momos"
+        "category_name": "Pasta Paradise",
+        "item_name": "Peri-Peri Pasta.",
+        "image": "image.jpg",
+        "price": 110,
+        "description": "Toasted in Peri-Peri chilli sauce, zesty and spicy, flavour enhancer.",
+        "item_type": "veg"
     },
     {
-        "category_name": "Burger"
+        "category_name": "Pasta Paradise",
+        "item_name": "Italian Pasta.",
+        "image": "image.jpg",
+        "price": 130,
+        "description": "Mix of Tomatoe, alfredo, resto and italiano. flavour enhancer.",
+        "item_type": "veg"
     },
     {
-        "category_name": "Clubhouse Cruncher"
+        "category_name": "Pasta Paradise",
+        "item_name": "Hot & Spicy Pasta.",
+        "image": "image.jpg",
+        "price": 110,
+        "description": "Fiery & Spicy, chilli peppers, hot sauces. Bold and Flaming.",
+        "item_type": "veg"
     },
     {
-        "category_name": "Noodles Nirvana"
+        "category_name": "Momos",
+        "item_name": "Chicken Crunchy momos(5 pcs).",
+        "image": "image.jpg",
+        "price": 80,
+        "description": "Crave-worthy chicken crunch momos delight with irresistable crispiness",
+        "item_type": "non-veg"
     },
     {
-        "category_name": "Shakes"
+        "category_name": "Momos",
+        "item_name": "Chicken cheese momos(5 pcs).",
+        "image": "image.jpg",
+        "price": 80,
+        "description": "Savoury chicken cheese momos delight.",
+        "item_type": "non-veg"
     },
     {
-        "category_name": "Add Ons"
+        "category_name": "Burger",
+        "item_name": "Chicken Regular Burger.",
+        "image": "image.jpg",
+        "price": 90,
+        "description": "Classic taste. Regular Burger delight.",
+        "item_type": "non-veg"
     },
     {
-        "category_name": "Sides"
+        "category_name": "Burger",
+        "item_name": "Veg. Regular Burger.",
+        "image": "image.jpg",
+        "price": 50,
+        "description": "Indulge in a delightful veggie burger experience.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Burger",
+        "item_name": "Double chicken patty Burger.",
+        "image": "image.jpg",
+        "price": 130,
+        "description": "A mouthwateing duo of succulent meat patties, perfectly layered with cheese, crispy lettuce and savoury condiments.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Burger",
+        "item_name": "Supreme Burger.",
+        "image": "image.jpg",
+        "price": 120,
+        "description": "Expertly crafted to deliver a flavour symphony that reign supreme between two perfectly toasted buns.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Burger",
+        "item_name": "Zinger Burger.",
+        "image": "image.jpg",
+        "price": 140,
+        "description": "Where a crispy, spicy chicken fillet takes center stage.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Burger",
+        "item_name": "Cheese Injector.",
+        "image": "image.jpg",
+        "price": 160,
+        "description": "A burst of gooey indulgence, featuring a succulent patty with melted cheese core.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Clubhouse Cruncher",
+        "item_name": "Chicken BBQ Sandwich.",
+        "image": "image.jpg",
+        "price": 150,
+        "description": "Grilled perfection, sauced satisfaction: our BBQ sandwich delight.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Clubhouse Cruncher",
+        "item_name": "Veg BBQ Sandwich.",
+        "image": "image.jpg",
+        "price": 165,
+        "description": "Grilled perfection, sauced satisfaction: our BBQ sandwich delight.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Clubhouse Cruncher",
+        "item_name": "Chicken Tandoori Sandwich.",
+        "image": "image.jpg",
+        "price": 160,
+        "description": "Radiant heat, rich flavour: Tandoori marvel in a sandwich parcel.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Clubhouse Cruncher",
+        "item_name": "Veg Tandoori Sandwich.",
+        "image": "image.jpg",
+        "price": 175,
+        "description": "Radiant heat, rich flavour: Tandoori marvel in a sandwich parcel.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Clubhouse Cruncher",
+        "item_name": "Chicken Schezwan Sandwich.",
+        "image": "image.jpg",
+        "price": 145,
+        "description": "A tantalizing fusion of spice and crunch that promises to ignite your taste buds with every bite.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Clubhouse Cruncher",
+        "item_name": "Veg Schezwan Sandwich.",
+        "image": "image.jpg",
+        "price": 160,
+        "description": "A tantalizing fusion of spice and crunch that promises to ignite your taste buds with every bite.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Clubhouse Cruncher",
+        "item_name": "Chicken Peri-Peri Sandwich.",
+        "image": "image.jpg",
+        "price": 145,
+        "description": "Tantalizing burst of spice create a symphony of bold and unforgettable flavours.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Clubhouse Cruncher",
+        "item_name": "Veg Peri-Peri Sandwich.",
+        "image": "image.jpg",
+        "price": 160,
+        "description": "Tantalizing burst of spice create a symphony of bold and unforgettable flavours.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Clubhouse Cruncher",
+        "item_name": "Regular veg Sandwich.",
+        "image": "image.jpg",
+        "price": 140,
+        "description": "Simple goodness in every layer.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Noodles Nirvana",
+        "item_name": "Kullad Maggi.",
+        "image": "image.jpg",
+        "price": 90,
+        "description": "spicy delight with a twist of tradition.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Noodles Nirvana",
+        "item_name": "Maggi.",
+        "image": "image.jpg",
+        "price": 45,
+        "description": "The original taste of home, offering a quick, easy and oh-so-satisfying solution.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Noodles Nirvana",
+        "item_name": "Butter Maggi.",
+        "image": "image.jpg",
+        "price": 55,
+        "description": "A delicious rendezvous of smooth butter and perfectly cooked noodles.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Noodles Nirvana",
+        "item_name": "Cheese Maggi.",
+        "image": "image.jpg",
+        "price": 65,
+        "description": "Unlease the cheese goodness with our cheese maggi.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Noodles Nirvana",
+        "item_name": "Mayo Maggi.",
+        "image": "image.jpg",
+        "price": 60,
+        "description": "Elevate your maggi experience with a creamy twist.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Noodles Nirvana",
+        "item_name": "Vegetable Maggi.",
+        "image": "image.jpg",
+        "price": 65,
+        "description": "Loaded with variety of toppings, a little something for everyone's taste.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Noodles Nirvana",
+        "item_name": "Korean Noodels.",
+        "image": "image.jpg",
+        "price": 120,
+        "description": "Spice up your mealtime routine with our korean noodles.",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Shakes",
+        "item_name": "Chocolate shake.",
+        "image": "image.jpg",
+        "price": 70,
+        "description": "",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Shakes",
+        "item_name": "Oreo shake.",
+        "image": "image.jpg",
+        "price": 90,
+        "description": "",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Shakes",
+        "item_name": "Strawberry shake(seasonal).",
+        "image": "image.jpg",
+        "price": 90,
+        "description": "",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Shakes",
+        "item_name": "Mango shake(seasonal).",
+        "image": "image.jpg",
+        "price": 90,
+        "description": "",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Shakes",
+        "item_name": "Kitkat shake.",
+        "image": "image.jpg",
+        "price": 80,
+        "description": "",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Shakes",
+        "item_name": "Cold Coffee.",
+        "image": "image.jpg",
+        "price": 70,
+        "description": "",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Add Ons",
+        "item_name": "Cheese.",
+        "image": "image.jpg",
+        "price": 20,
+        "description": "",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Add Ons",
+        "item_name": "Extra-dip.",
+        "image": "image.jpg",
+        "price": 10,
+        "description": "",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Add Ons",
+        "item_name": "Chicken.",
+        "image": "image.jpg",
+        "price": 30,
+        "description": "",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Sides",
+        "item_name": "Chicken Cheese balls(5 pcs).",
+        "image": "image.jpg",
+        "price": 120,
+        "description": "with dip.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Sides",
+        "item_name": "Chicken popcorn(8 pcs).",
+        "image": "image.jpg",
+        "price": 120,
+        "description": "with dip.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Sides",
+        "item_name": "Chicken nuggets(8 pcs).",
+        "image": "image.jpg",
+        "price": 130,
+        "description": "with dip.",
+        "item_type": "non-veg"
+    },
+    {
+        "category_name": "Sides",
+        "item_name": "Fries.",
+        "image": "image.jpg",
+        "price": 75,
+        "description": "",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Sides",
+        "item_name": "BBQ Oregano Fries.",
+        "image": "image.jpg",
+        "price": 90,
+        "description": "",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Sides",
+        "item_name": "Chipolte Fries.",
+        "image": "image.jpg",
+        "price": 90,
+        "description": "",
+        "item_type": "veg"
+    },
+    {
+        "category_name": "Sides",
+        "item_name": "Cheesy Fries.",
+        "image": "image.jpg",
+        "price": 90,
+        "description": "",
+        "item_type": "veg"
     }
 ]
